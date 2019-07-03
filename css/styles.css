@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  /* padding: 0 15% 0; */
+
+}
+
+h3 {
+  text-align: left;
+}
+h2 {
+  margin-bottom: 0;
+
+}
+
+/* logo image class */
+.logo-main {
+  width: 30%;
+}
+/* logo div class */
+.logo {
+  background-color: #e8e8e8;
+}
+
+.tophead{
+  background-color: #e8e8e8;
+}
+
+.services-1 {
+  background-color: #5588a3;
+  padding: 1% 0;
+
+}
+
+.services-2 {
+  background-color: #145374;
+  padding: 1% 0;
+
+}
+
+.contact-section {
+  background-color: #00334e;
+}
